@@ -17,7 +17,7 @@ Because the native ban list is used:
 
 ## Compatibility
 - Paper / Spigot
-- Minecraft 1.19+
+- Minecraft 1.21+
 - Kotlin-based plugin
 
 ## Notes
