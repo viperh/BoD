@@ -1,0 +1,5 @@
+name: BoD
+version: '1.0-SNAPSHOT'
+main: org.me.qviperh.boD.BoD
+api-version: '1.21'
+description: Ban on Death Plugin
